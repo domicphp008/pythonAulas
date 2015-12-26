@@ -21,8 +21,8 @@ SyntaxError: invalid syntax
 >>> 
 >>> "let's go"
 "let's go"
->>> 'lest\'s go'
-"lest's go"
+>>> 'let\'s go'
+"let's go"
 >>> "let\"s go"
 'let"s go'
 >>> 
