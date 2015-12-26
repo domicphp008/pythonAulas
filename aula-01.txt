@@ -1,0 +1,6 @@
+﻿x = ['poderoso', 'simples', 'divertido', ' a melhor linguagem']
+for palavra in x:
+    print( 'Python é' , palavra)
+    
+for i in range(len(x)):
+    print('Python é', x[i])
