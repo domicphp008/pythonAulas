@@ -16,7 +16,7 @@ Type "copyright", "credits" or "license()" for more information.
 0.5
 >>> from __future__import division
 SyntaxError: invalid syntax
->>> 
+>>> """ na linha 17 SyntaxError, entre future e import """
 >>> from __future__ import division
 >>> 
 >>> 
