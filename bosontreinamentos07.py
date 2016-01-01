@@ -10,27 +10,16 @@ Type "copyright", "credits" or "license()" for more information.
 9
 >>> print(a - b)
 1
->>> print(a * B)
-Traceback (most recent call last):
-  File "<pyshell#6>", line 1, in <module>
-    print(a * B)
-NameError: name 'B' is not defined
+
 >>> print(a * b)
 20
 >>> print( a / b)
 1.25
->>> print(a ** B)
-Traceback (most recent call last):
-  File "<pyshell#9>", line 1, in <module>
-    print(a ** B)
-NameError: name 'B' is not defined
+
 >>> print(a ** b)
 625
 >>> print(c)
-Traceback (most recent call last):
-  File "<pyshell#11>", line 1, in <module>
-    print(c)
-NameError: name 'c' is not defined
+   
 >>> c = a + b
 >>> print(c)
 9
