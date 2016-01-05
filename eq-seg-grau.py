@@ -1,9 +1,13 @@
-vamos calcular as raizes de uma equação do segundo grau
-digite o coeficiente a = 1
-digite o coeficiente b = -2
-digite o coeficiente c = -3
-delta =  16.0
-raiz de delta =  4.0
- x1 =  3.0
- x2 =  -1.0
->>> 
+print('vamos calcular as raizes de uma equação do segundo grau')
+a = float(input('digite o coeficiente a = '))
+b = float(input('digite o coeficiente b = '))
+c = float(input('digite o coeficiente c = '))
+delta = b**2-4*a*c
+print('delta = ', delta)
+raizdelta = delta **0.5
+print('raiz de delta = ', raizdelta)
+x1 = (-b+raizdelta)/ (2*a)
+print(' x1 = ', x1)
+x2 = (-b-raizdelta)/ (2*a)
+print(' x2 = ', x2)
+ 
