@@ -1,4 +1,4 @@
-vamos calcular as raizes de uma equaÃ§Ã£o do segundo grau
+vamos calcular as raizes de uma equação do segundo grau
 digite o coeficiente a = 1
 digite o coeficiente b = -2
 digite o coeficiente c = -3
